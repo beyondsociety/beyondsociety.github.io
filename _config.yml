@@ -12,6 +12,7 @@ description: A blog for various computer and programming projects.
 avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/jekyll-logo.png
 
 future: true
+timezone: America/Boise
 encoding: utf-8
 
 #

@@ -13,7 +13,7 @@ avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/je
 
 future: true
 timezone: America/Boise
-encoding: utf-8
+encoding: UTF-8
 
 #
 # Flags below are optional

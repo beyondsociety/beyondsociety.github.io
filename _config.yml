@@ -12,6 +12,7 @@ description: A blog for various computer and programming projects.
 avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/jekyll-logo.png
 
 future: true
+encoding: utf-8
 
 #
 # Flags below are optional

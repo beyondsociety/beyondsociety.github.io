@@ -70,7 +70,7 @@ a {
   text-decoration: none;
 	cursor: pointer;
   &:hover, &:active {
-    color: $blue;
+    color: $black;
   }
 }
 
@@ -227,7 +227,7 @@ nav {
 
     @include mobile {
       margin: 0 10px;
-      color: $black;
+      color: $blue;
     }
   }
 }
